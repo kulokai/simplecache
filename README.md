@@ -1,3 +1,12 @@
+### Installation
+```
+//install by composer
+composer require kurokai/simplecache
+  
+//or clone from github
+git clone git@github.com:kulokai/simplecache.git
+```
+
 ### Usage
 ```php
 //init the tool
