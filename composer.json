@@ -1,0 +1,15 @@
+{
+  "name": "kurokai/simplecache",
+  "description": "A PHP Simple Cache Base on File.",
+  "keywords": ["cache"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jiawei XS",
+      "email": "kurobafear@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": "^5.5.9 || ^7.0"
+  }
+}
