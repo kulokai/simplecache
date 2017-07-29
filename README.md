@@ -11,7 +11,7 @@ SimpleCache::init('.../path/to/cache',600);
 //set cache
 $isSuccess = SimpleCache::set('key','hello world');
   
-//set cache and set expire time
+//set cache and set expire time for the 'key'.
 $isSuccess = SimpleCache::set('key','hello world',600);
 ```
 
@@ -19,6 +19,6 @@ $isSuccess = SimpleCache::set('key','hello world',600);
 //get cache
 $value = SimpleCache::get('key');
   
-//get cache and set default value 
+//get cache and set default value for the 'key'.
 $value = SimpleCache::get('key','default value');
 ```
