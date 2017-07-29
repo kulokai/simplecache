@@ -2,6 +2,9 @@
 ```php
 //init the tool
 SimpleCache::init('.../path/to/cache');
+  
+//init the tool and set default expire time.
+SimpleCache::init('.../path/to/cache',600);
 ```
 
 ```php
