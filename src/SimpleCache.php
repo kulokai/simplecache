@@ -5,7 +5,7 @@
  * Date: 2017/7/29
  */
 
-namespace SimpleCache;
+namespace Kurokai\SimpleCache;
 
 class SimpleCache
 {
