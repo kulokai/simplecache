@@ -5,7 +5,7 @@
  * Date: 2017/7/29
  */
 
-namespace Kurokai\SimpleCache;
+namespace JiaweiXS\SimpleCache;
 
 class SimpleCache
 {

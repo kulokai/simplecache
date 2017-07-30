@@ -1,7 +1,7 @@
 {
-  "name": "kurokai/simplecache",
+  "name": "jiaweixs/simplecache",
   "description": "A PHP Simple Cache Base on File.",
-  "keywords": ["cache"],
+  "keywords": ["cache","simple cache"],
   "license": "MIT",
   "authors": [
     {
@@ -15,7 +15,7 @@
 
   "autoload": {
     "psr-4": {
-      "Kurokai\\": "src/"
+      "JiaweiXS\\": "src/"
     }
   }
 }
