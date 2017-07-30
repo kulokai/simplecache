@@ -1,7 +1,7 @@
 ### Installation
 ```
 //install by composer
-composer require kurokai/simplecache
+composer require jiaweixs/simplecache
   
 //or clone from github
 git clone git@github.com:kulokai/simplecache.git
