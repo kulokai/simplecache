@@ -5,7 +5,7 @@
  * Date: 2017/7/29
  */
 
-namespace JiaweiXS\SimpleCache;
+namespace JiaweiXS;
 
 class SimpleCache
 {
